@@ -32,6 +32,13 @@ Plzeňská 298/217a
 #### Figma
 #### Microsoft Office
 
+## Skills
+#### Typography
+#### Branding
+#### packaging
+#### print design
+#### delivering presentations
+
 ## Languges
 #### Czech (Native)
 #### English (Advanced)
