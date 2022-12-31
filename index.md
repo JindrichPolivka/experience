@@ -37,7 +37,7 @@ Plzeňská 298/217a
 #### Branding
 #### packaging
 #### print design
-#### delivering presentations
+- delivering presentations
 
 ## Languges
 #### Czech (Native)
