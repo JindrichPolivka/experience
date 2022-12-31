@@ -25,12 +25,12 @@ Plzeňská 298/217a
 
 
 ## Tools
-Adobe InDesign
-Adobe Illustrator
-Adobe Photoshop
-Adobe AfterEffects
-Figma
-Microsoft Office
+### Adobe InDesign
+### Adobe Illustrator
+### Adobe Photoshop
+### Adobe AfterEffects
+### Figma
+### Microsoft Office
 
 ## Languges
 Czech (Native)
