@@ -1,6 +1,7 @@
-## Résumé
 
 <img align="right" width="200" height="200" src="ME.jpg">
+
+## Résumé
 
 # Jindřich Polívka
 
