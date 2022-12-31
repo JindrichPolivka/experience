@@ -33,12 +33,12 @@ Plzeňská 298/217a
 #### Microsoft Office
 
 ## Skills
-#### Typography
-#### Branding
-#### packaging
-#### print design
+- Typography
+- Branding
+- packaging
+- print design
 - delivering presentations
 
 ## Languges
-#### Czech (Native)
-#### English (Advanced)
+- Czech (Native)
+- English (Advanced)
