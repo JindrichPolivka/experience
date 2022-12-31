@@ -11,4 +11,7 @@ Praha 9-Letňany
 199 00
 2013-2016
 
+## Business @ Střední průmyslová škola dopravní, a.s.
+Plzeňská 298/217a
+150 00 Praha 5 – Motol
 2016-2018
