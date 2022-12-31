@@ -1,6 +1,7 @@
 ## Résumé
-# Jindřich Polívka
 <img align="right" width="200" height="200" src="ME.jpg">
+# Jindřich Polívka
+
 
 
 # Education
