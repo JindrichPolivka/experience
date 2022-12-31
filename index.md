@@ -17,3 +17,16 @@ Praha 9-Letňany
 Plzeňská 298/217a
 150 00 Praha 5 – Motol
 ### 2016-2018
+
+
+## Tools
+Adobe InDesign
+Adobe Illustrator
+Adobe Photoshop
+Adobe AfterEffects
+Figma
+Microsoft Office
+
+## Languges
+Czech (Native)
+English (Advanced)
