@@ -5,6 +5,11 @@
 
 # Jindřich Polívka
 
+I'm a graphic designer excited to help you find solutions for your business or project, don't hesitate to contact me.
+
+#### Contact
+- (+420) 603 278 436
+- jindrich.polivka@email.cz
 
 
 # Education
@@ -42,3 +47,6 @@ Plzeňská 298/217a
 ## Languges
 - Czech (Native)
 - English (Advanced)
+
+## Work
+- freelance work of varied type including logo creation, branding, typography, small print etc.
