@@ -2,7 +2,7 @@
 # Jindřich Polívka
 
 
-Education
+# Education
 ### Ongoing bachelor studies in Graphic and media design  @ VŠKK (University of Creative Communication)
 Na Pankráci 420, 140 00 Praha 4-Nusle
 
